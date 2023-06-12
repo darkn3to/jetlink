@@ -1,1 +1,1 @@
-Jetlink - An Airline Ticket Booking System
+Jetlink - A Miniature Airline Ticket Booking System
